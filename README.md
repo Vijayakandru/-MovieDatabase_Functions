@@ -2,7 +2,8 @@
 
 1)This project contains all the sql commands for creation and insertion of movie database
 2)Along with the data Functions to 
-  i)Get the ShowTimings
-  ii)Book the movie
-  iii)Retrive the Booking Details
+  i)Book the movie
+  ii)Retrive the Booking Details
+3)Stored Procedure to get the 
+  i)i)ShowTimings
   
